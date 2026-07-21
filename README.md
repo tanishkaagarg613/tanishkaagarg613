@@ -3,7 +3,7 @@
 ### 💻 &nbsp;About Me
 I am an <strong>AI/ML Engineer</strong> specializing in drone technology and end-to-end machine learning pipelines. I bridge the gap between intelligent data-driven models and responsive, high-performance web applications. I love building smart systems, optimizing models, and writing clean, maintainable code. Take a look at my repositories and let's get in touch!
 
-Take a look at my [résumé!](https://drive.google.com/file/d/1wCPAWf9aWmeknxVyAYNVJC71Pwbzd2WG/view?usp=drive_link)
+Take a look at my [résumé!](https://drive.google.com/file/d/1YwZJTZOgaeTxVsYPfxvbiXheo5sXqE1L/view?usp=drive_link)
 
 ---
 
